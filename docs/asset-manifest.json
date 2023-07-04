@@ -1,14 +1,12 @@
 {
     "files": {
       "main.css": "./docs/css/main.css",
-      "main.js": "./docs/js/main.js",
-      "static/media/LogoRick.png": "./docs/media/LogoRick.png",
+      "static/media/LogoRick.png": "./static/media/LogoRick.png",
       "index.html": "./index.html",
-      "main.9748c47d.css.map": "./docs/css/main.css.map",
-      "main.23b53cf3.js.map": "./docs/js/main.js.map"
+      "main.css.map": "./docs/css/main.css.map"
+      
     },
     "entrypoints": [
-      "./docs/css/main.css",
-      "./docs/js/main.js"
+      "./docs/css/main.css"
     ]
   }
